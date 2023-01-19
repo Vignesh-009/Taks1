@@ -8,5 +8,10 @@ int main()
 	scanf("%d",&b);
 	c=a+b;
 	printf("Addition of %d and %d is %d",a,b,c);
+	
+	//subtraction part:
+	c=a-b;
+	printf("Subtraction of %d and %d is %d",a,b,c);
+	
 	return 0;
 }
